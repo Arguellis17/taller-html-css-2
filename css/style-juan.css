@@ -1,0 +1,23 @@
+* {
+
+    /*
+    Explicacion del box-sizing
+
+    El box-sizing: border-box, obliga al modelo de caja que se respete lo que modifiquemos en width, height, padding, etc. La propiedad por default del box-sizing es content-box. Si modificamos el modelo de caja, este crecera y no se respetara
+    */
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.box{
+    width: 300px; /* Ancho de la caja */
+    height: 200px; /* Alto de la caja */
+    border: 5px solid #333; /* Borde */
+    padding: 20px; /* Espaciado interno */
+    margin: 20px; /* Margen externo */
+    background-color: lightblue; /* Color de fondo */
+}
+.box .p{
+    text-align: center;
+    font-size: bold;
+}
