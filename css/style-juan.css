@@ -19,7 +19,7 @@
 }
 .box-1 .p{
     text-align: center;
-    font-size: bold;
+    font-weight: bold;
 }
 
 .box-2 {
@@ -31,14 +31,14 @@
     background-color: lightblue;
 }
 
-.box-2 .p{
+.box-2 p{
     text-align: center;
-    font-size: bold;
+    font-weight: bold;
 }
 
 .contenedor {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: end;
     flex-wrap: wrap;
     width: 80%;
