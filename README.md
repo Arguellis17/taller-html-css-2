@@ -25,8 +25,6 @@ Este repositorio contiene los archivos del **Taller 2 de HTML y CSS**, donde se 
 1. Clona el repositorio:
    ```bash
    git clone https://github.com/Arguellis17/taller-html-css-2.git
-   ```
-2. Abre el archivo `index.html` en tu navegador.
 
 ## Autores
 - **Arguellis17**
