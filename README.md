@@ -12,17 +12,15 @@ Este repositorio contiene los archivos del **Taller 2 de HTML y CSS**, donde se 
 
 ```
 📂 taller-html-css-2
- ├── 📁 assets        # Imágenes, iconos y otros recursos
- ├── 📁 css           # Archivos de estilos (CSS)
- ├── 📁 js            # Archivos JavaScript (si aplica)
+ ├── 📁 img           # Imágenes
+ ├── 📁 css           # Archivos de estilos (CSS)           
  ├── index.html       # Página principal
+ |── box-model.html
+ |── display.html
+ |── media-querie.html
+ |── pagina-web-1.html 
  ├── README.md        # Información del proyecto
-```
-
-## Requisitos
-- Un navegador web actualizado
-- Editor de código (VS Code, Sublime Text, etc.)
-
+`````
 ## Cómo usarlo
 1. Clona el repositorio:
    ```bash
